@@ -1,0 +1,5 @@
+[user]
+        name = Atpton
+        email = s5704062636047@email.kmutnb.ac.th
+[merge]
+        tool = vimdiff
