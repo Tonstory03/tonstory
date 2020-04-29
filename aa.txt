@@ -4,9 +4,13 @@ eee
 sssss
 FFFF
 asas
+<<<<<<< HEAD
 zxzxdd
 
 dddddddddddddddd
 
 ddd
 zxzxddd
+=======
+zxzxxxxxxx
+>>>>>>> feature4
