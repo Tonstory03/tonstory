@@ -1,2 +1,3 @@
 console.info("F1")
-console.info("F11")
+console.log("F11")
+console.info("f111")
