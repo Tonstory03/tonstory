@@ -4,5 +4,5 @@ console.info("f111")
 console.log("F11+++++++++++++")
 console.info("f111++++++++++++++++++++")
 console.info("f222")
-console.log('f3')
+console.log('f2')
 
